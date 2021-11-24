@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  TestImageLoading
-//
-//  Created by Astemir Shibzuhov on 11/19/21.
-//
 
 import UIKit
 import CoreData

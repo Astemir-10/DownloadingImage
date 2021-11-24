@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  TestImageLoading
-//
-//  Created by Astemir Shibzuhov on 11/19/21.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
